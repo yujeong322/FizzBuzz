@@ -5,6 +5,7 @@ package lab1;
  */
 
 //check if PR works
+    //pp
 class FizzBuzz {
 
     public static void main(String[] args) {
