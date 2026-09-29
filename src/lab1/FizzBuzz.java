@@ -7,7 +7,7 @@ package lab1;
 //check if PR works
     //pp
 class FizzBuzz {
-
+// change 2
     public static void main(String[] args) {
 
         for (int i = 1; i <= 100; i++) {
