@@ -8,6 +8,8 @@ package lab1;
     //pp
 class FizzBuzz {
 // change 2
+
+    //change 3
     public static void main(String[] args) {
 
         for (int i = 1; i <= 100; i++) {
