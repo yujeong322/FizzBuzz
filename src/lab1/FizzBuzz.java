@@ -5,8 +5,11 @@ package lab1;
  */
 
 //check if PR works
+    //pp
 class FizzBuzz {
+// change 2
 
+    //change 3
     public static void main(String[] args) {
 
         for (int i = 1; i <= 100; i++) {
@@ -40,3 +43,5 @@ class FizzBuzz {
         }
     }
 }
+
+// change to check if PR is made
